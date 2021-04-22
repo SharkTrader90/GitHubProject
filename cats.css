@@ -1,0 +1,83 @@
+.container {
+    width: 725px;
+    height:800px;
+    background-color: whitesmoke;
+    font-family: serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.h1 {
+    font-family: sans-serif;
+    font-size:  40px;
+    height: 80px;
+    
+    align-self: center;
+    text-align: center;
+    padding: 0px;
+    margin: 5px 10px;
+
+}
+
+.h2 {
+    height: 200px;
+    width: 650px;
+    object-fit: cover;
+    display: flex;
+    background-color: darkturquoise;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    
+
+    
+}
+
+.cats img {
+    width: 175px;
+    height: 170px;
+    margin: 15px;
+    object-fit: cover;
+}
+.h3 {
+    height: 200px;
+    width: 650px;
+    object-fit: cover;
+    display: flex;
+    background-color: lightcoral;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.cats2 img {
+    width: 175px;
+    height: 170px;
+    margin: 15px;
+    object-fit: cover;
+    
+}
+
+.h4 {
+    height: 200px;
+    width: 650px;
+    object-fit: cover;
+    display: flex;
+    background-color: red;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.cats3 img{
+    width: 175px;
+    height: 170px;
+    margin: 15px;
+    object-fit: cover;
+}
+
+.h5 {
+    align-items: center;
+}
